@@ -1,0 +1,6 @@
+Blocklist
+
+aliexpress.com^
+facebook.com^
+fazebook.com^
+1facebook.com^
